@@ -1,4 +1,4 @@
-# student-praсtice-nodejs-template
+# student-praсtice
 
 ## Требования
 [NodeJS 12+](https://nodejs.org/en/download/)
